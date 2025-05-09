@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Piyush Jawak
 
-<!--
-**piyushjawak1/piyushjawak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently learning **Full Stack Web Development**  
+💡 Exploring HTML, CSS, JavaScript and React  
+📁 Check out my [Portfolio](https://github.com/piyushjawak1/Portfolio)  
+📫 How to reach me: piyush.your@email.com  
+🌱 Always ready to learn and grow!
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Responsive Web Design
+- Basic Java and OOPs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Portfolio Website
+- Mini UI Components (Navbar, Cards, Forms, etc.)
+
