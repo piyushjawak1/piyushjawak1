@@ -3,7 +3,7 @@
 🎓 I’m currently learning **Full Stack Web Development**  
 💡 Exploring HTML, CSS, JavaScript and React  
 📁 Check out my [Portfolio](https://github.com/piyushjawak1/Piyush-Jawak-Porfolio)  
-📫 How to reach me:piyushjawak1@gmail.com 
+📫 How to reach me: piyushjawak1@gmail.com 
 🌱 Always ready to learn and grow!
 
 ## 🛠️ Skills
